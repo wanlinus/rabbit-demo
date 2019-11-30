@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: hello
+  rabbitmq:
+    port: 5672
+    username: guest
+    password: guest
+    host: 10.0.0.20
